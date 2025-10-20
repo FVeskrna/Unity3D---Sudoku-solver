@@ -68,11 +68,10 @@ This method is simple to implement and guarantees a solution for any solvable pu
 
 ## Screenshots
 
-| Initial Puzzle | Solved Board |
-| --- | --- |
-| ![Initial](<img width="597" height="830" alt="image" src="https://github.com/user-attachments/assets/dee5f799-59a5-4dbc-8cea-ba5ea5b935a4" />
-) | ![Solved](<img width="596" height="832" alt="image" src="https://github.com/user-attachments/assets/f4198f95-9a87-4c21-84d4-6f97fe456731" />
-) |
+
+[Initial](<img width="597" height="830" alt="image" src="https://github.com/user-attachments/assets/dee5f799-59a5-4dbc-8cea-ba5ea5b935a4" />
+[Solved](<img width="596" height="832" alt="image" src="https://github.com/user-attachments/assets/f4198f95-9a87-4c21-84d4-6f97fe456731" />
+
 
 ---
 
